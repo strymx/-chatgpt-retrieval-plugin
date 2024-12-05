@@ -1,1 +1,1 @@
-# -chatgpt-retrieval-plugin
+# chatgpt-retrieval-plugin
